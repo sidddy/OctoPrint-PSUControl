@@ -10,7 +10,7 @@ plugin_version = "0.1.6"
 plugin_description = "Control ATX/AUX power supply."
 plugin_author = "Shawn Bruce"
 plugin_author_email = "kantlivelong@gmail.com"
-plugin_url = "https://github.com/kantlivelong/OctoPrint-PSUControl"
+plugin_url = "https://github.com/sidddy/OctoPrint-PSUControl"
 plugin_license = "AGPLv3"
 plugin_additional_data = []
 
